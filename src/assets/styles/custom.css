@@ -1,0 +1,8 @@
+
+div.select__control{
+  border-radius: 50px;
+
+}
+div.select__option--is-selected{
+  background-color: red;
+}
